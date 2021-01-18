@@ -10,30 +10,32 @@
         (VP
           (VBP have)
           (ADVP (RB now))
-          (VP
-            (VBN been)
-            (SBAR
-              (IN completedand)
-              (S
-                (NP (PRP she))
-                (VP
-                  (MD will)
-                  (VP
-                    (VB proceed)
-                    (S (VP (TO to) (VP (VB Faslane))))
-                    (PP
-                      (IN under)
-                      (NP (PRP$ her) (JJ own) (NN power))))))))))
-      (: .)
+          (VP (VBN been) (VP (VBN completed)))))
+      (CC and)
       (S
-        (NP (PRP She))
+        (NP (PRP she))
         (VP
-          (VBZ is)
+          (MD will)
           (VP
-            (VBG being)
-            (NP
-              (NP (NN escortedby) (NNS tugs))
-              (CC and)
-              (NP (NNP HMS) (NNP Shoreham))))))))
+            (VB proceed)
+            (TO to)
+            (VP
+              (VP (VB Faslane))
+              (PP (IN under) (NP (PRP$ her) (JJ own) (NN power))))))))
+    (: .)
+    (S
+      (NP (PRP She))
+      (VP
+        (VBZ is)
+        (VP
+          (VBG being)
+          (VP
+            (VBN escorted)
+            (PP
+              (IN by)
+              (NP
+                (NP (NNS tugs))
+                (CC and)
+                (NP (NNP HMS) (NNP Shoreham)))))))))
   (. .)
   ('' ”))

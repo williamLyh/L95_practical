@@ -11,21 +11,20 @@
   (: :)
   (S
     (IN whether)
-    (FRAG
-      (NP
-        (NP (NN fromgreat) (JJ personal) (NN success))
-        (, ,)
-        (CC or)
-        (NP (RB just) (DT an) (JJ all-night) (NN drive))))
+    (IN from)
+    (NP
+      (NP (JJ great) (JJ personal) (NN success))
+      (, ,)
+      (CC or)
+      (NP (RB just) (DT an) (JJ all-night) (NN drive)))
     (, ,)
     (NP (PRP we))
     (VP
       (VBP are)
       (NP
-        (DT the)
-        (JJ sole)
+        (NP (DT the) (JJ sole) (NNS survivors))
         (PP
-          (IN survivorsof)
+          (IN of)
           (NP
             (NP (DT a) (NN world))
             (SBAR

@@ -15,5 +15,5 @@
             (NP (NN wickerwork) (NN picnic) (NNS baskets))))))
     (. .)
     (NP (NP (NN Imagination)) (PP (IN without) (NP (NN skill))))
-    (VP (VBZ gives) (NP (JJ usmodern) (NN art))))
+    (VP (VBZ gives) (NP (PRP us)) (NP (JJ modern) (NN art))))
   (. .))

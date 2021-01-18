@@ -19,7 +19,8 @@
 19	without	without	ADP	IN	_	20	case	_	_
 20	skill	skill	NOUN	NN	_	18	nmod	_	_
 21	gives	give	VERB	VBZ	_	5	dep	_	_
-22	usmodern	usmodern	ADJ	JJ	_	23	amod	_	_
-23	art	art	NOUN	NN	_	21	obj	_	_
-24	.	.	PUNCT	.	_	5	punct	_	_
+22	us	we	PRON	PRP	_	21	iobj	_	_
+23	modern	modern	ADJ	JJ	_	24	amod	_	_
+24	art	art	NOUN	NN	_	21	obj	_	_
+25	.	.	PUNCT	.	_	5	punct	_	_
 
