@@ -1,0 +1,10 @@
+input/input1.txt
+input/input2.txt
+input/input3.txt
+input/input4.txt
+input/input5.txt
+input/input6.txt
+input/input7.txt
+input/input8.txt
+input/input9.txt
+input/input10.txt

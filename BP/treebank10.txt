@@ -1,0 +1,41 @@
+(S
+  (PP
+    (RB Instead)
+    (IN of)
+    (S
+      (VP
+        (ADVP (RB constantly))
+        (VBG worrying)
+        (PP (IN about) (NP (NN funding))))))
+  (, ,)
+  (NP (DT the) (NN faculty) (CC and) (NNS students))
+  (VP
+    (VB canfocus)
+    (PP (IN on) (NP (PRP$ their) (NN project)))
+    (, ,)
+    (S
+      (PP
+        (IN with)
+        (NP
+          (NP (DT the) (NN exception))
+          (PP (IN of) (NP (NP (NNS sponsors) (POS ’)) (NNS weeks))))))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (VBP theyhave)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB convince)
+              (NP (NNS companies))
+              (S
+                (VP
+                  (TO to)
+                  (VP
+                    (VB start)
+                    (CC or)
+                    (VB continue)
+                    (NP (PRP$ their) (NN support)))))))))))
+  (. .))

@@ -1,0 +1,41 @@
+Document: ID=example1.txt (2 sentences, 11 tokens)
+
+Sentence #1 (4 tokens):
+The old car.
+
+Tokens:
+[Text=The CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=old CharacterOffsetBegin=4 CharacterOffsetEnd=7 PartOfSpeech=JJ Lemma=old NamedEntityTag=O]
+[Text=car CharacterOffsetBegin=8 CharacterOffsetEnd=11 PartOfSpeech=NN Lemma=car NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=11 CharacterOffsetEnd=12 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, car-3)
+det(car-3, The-1)
+amod(car-3, old-2)
+punct(car-3, .-4)
+
+Extracted the following NER entity mentions:
+
+Sentence #2 (7 tokens):
+broke down in the car park.
+
+Tokens:
+[Text=broke CharacterOffsetBegin=13 CharacterOffsetEnd=18 PartOfSpeech=VBD Lemma=break NamedEntityTag=O]
+[Text=down CharacterOffsetBegin=19 CharacterOffsetEnd=23 PartOfSpeech=RP Lemma=down NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=24 CharacterOffsetEnd=26 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=27 CharacterOffsetEnd=30 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=car CharacterOffsetBegin=31 CharacterOffsetEnd=34 PartOfSpeech=NN Lemma=car NamedEntityTag=O]
+[Text=park CharacterOffsetBegin=35 CharacterOffsetEnd=39 PartOfSpeech=NN Lemma=park NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=39 CharacterOffsetEnd=40 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, broke-1)
+compound:prt(broke-1, down-2)
+case(park-6, in-3)
+det(park-6, the-4)
+compound(park-6, car-5)
+obl:in(broke-1, park-6)
+punct(broke-1, .-7)
+
+Extracted the following NER entity mentions:

@@ -1,0 +1,14 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	horse	horse	NOUN	NN	_	10	nsubj	_	_
+3	which	which	PRON	WDT	_	6	obj	_	_
+4	Kim	Kim	PROPN	NNP	_	6	nsubj	_	_
+5	sometimes	sometimes	ADV	RB	_	6	advmod	_	_
+6	rides	ride	VERB	VBZ	_	2	acl:relcl	_	_
+7	is	be	VERB	VBZ	_	10	cop	_	_
+8	more	more	ADV	RBR	_	10	advmod	_	_
+9	bad	bad	ADJ	JJ	_	10	dep	_	_
+10	tempered	temper	VERB	VBN	_	0	root	_	_
+11	than	than	ADP	IN	_	12	case	_	_
+12	mine	mine	NOUN	NN	_	10	obl	_	_
+13	.	.	PUNCT	.	_	10	punct	_	_
+

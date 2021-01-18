@@ -1,0 +1,44 @@
+(S
+  (S
+    (CC But)
+    (NP (ADJP (RB far) (JJR fewer)) (NNS people))
+    (VP
+      (VP
+        (ADVP (RB fully))
+        (VBP understand)
+        (SBAR
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (DT the) (NNS Media) (NN Lab))
+              (VP (VBZ operates))))
+          (, ,)
+          (NP (NNP fitsinto) (NNP MIT))
+          (, ,)))
+      (CC and)
+      (VP
+        (VBZ encourages)
+        (NP (PDT such) (DT a) (JJ creative) (NN environment)))))
+  (: ;)
+  (S
+    (NP
+      (NP (QP (IN about) (NN half)))
+      (PP
+        (IN of)
+        (NP
+          (NP
+            (NP (NN theanniversary) (NN celebration) (POS ’))
+            (POS s))
+          (NN program))))
+    (VP
+      (VBD focused)
+      (PP
+        (IN on)
+        (S
+          (ADVP (RB simply))
+          (VP
+            (VBG defining)
+            (SBAR
+              (WHNP (WP what))
+              (S (NP (DT the) (NNS Media) (NN Lab)) (VP (VBZ is)))))))))
+  (. .))
