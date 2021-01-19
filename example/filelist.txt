@@ -1,0 +1,3 @@
+example/input1.txt
+example/input2.txt
+example/input3.txt

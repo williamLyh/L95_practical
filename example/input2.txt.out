@@ -1,0 +1,28 @@
+Document: ID=input2.txt (1 sentences, 9 tokens)
+
+Sentence #1 (9 tokens):
+Don't trouble trouble till trouble troubles you.
+
+Tokens:
+[Text=Do CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=VB Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=2 CharacterOffsetEnd=5 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=trouble CharacterOffsetBegin=6 CharacterOffsetEnd=13 PartOfSpeech=NN Lemma=trouble NamedEntityTag=O]
+[Text=trouble CharacterOffsetBegin=14 CharacterOffsetEnd=21 PartOfSpeech=NN Lemma=trouble NamedEntityTag=O]
+[Text=till CharacterOffsetBegin=22 CharacterOffsetEnd=26 PartOfSpeech=IN Lemma=till NamedEntityTag=O]
+[Text=trouble CharacterOffsetBegin=27 CharacterOffsetEnd=34 PartOfSpeech=NN Lemma=trouble NamedEntityTag=O]
+[Text=troubles CharacterOffsetBegin=35 CharacterOffsetEnd=43 PartOfSpeech=NNS Lemma=trouble NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=44 CharacterOffsetEnd=47 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=47 CharacterOffsetEnd=48 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, trouble-4)
+aux(trouble-4, Do-1)
+advmod(trouble-4, n't-2)
+compound(trouble-4, trouble-3)
+case(troubles-7, till-5)
+compound(troubles-7, trouble-6)
+nmod:till(trouble-4, troubles-7)
+dep(trouble-4, you-8)
+punct(trouble-4, .-9)
+
+Extracted the following NER entity mentions:

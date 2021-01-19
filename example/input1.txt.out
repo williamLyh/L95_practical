@@ -1,0 +1,100 @@
+Document: ID=input1.txt (1 sentences, 45 tokens)
+
+Sentence #1 (45 tokens):
+Cat, which is a catus, which is a felis, which is a felidae, which is a carnivora, which is a mammalia, which is a vertebrate, which is a chordata, which is a animalia, is lovely.
+
+Tokens:
+[Text=Cat CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=NN Lemma=cat NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=3 CharacterOffsetEnd=4 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=5 CharacterOffsetEnd=10 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=11 CharacterOffsetEnd=13 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=14 CharacterOffsetEnd=15 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=catus CharacterOffsetBegin=16 CharacterOffsetEnd=21 PartOfSpeech=NN Lemma=catus NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=21 CharacterOffsetEnd=22 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=23 CharacterOffsetEnd=28 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=29 CharacterOffsetEnd=31 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=32 CharacterOffsetEnd=33 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=felis CharacterOffsetBegin=34 CharacterOffsetEnd=39 PartOfSpeech=NN Lemma=felis NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=39 CharacterOffsetEnd=40 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=41 CharacterOffsetEnd=46 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=47 CharacterOffsetEnd=49 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=50 CharacterOffsetEnd=51 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=felidae CharacterOffsetBegin=52 CharacterOffsetEnd=59 PartOfSpeech=NN Lemma=felidae NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=59 CharacterOffsetEnd=60 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=61 CharacterOffsetEnd=66 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=67 CharacterOffsetEnd=69 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=70 CharacterOffsetEnd=71 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=carnivora CharacterOffsetBegin=72 CharacterOffsetEnd=81 PartOfSpeech=NN Lemma=carnivora NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=81 CharacterOffsetEnd=82 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=83 CharacterOffsetEnd=88 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=89 CharacterOffsetEnd=91 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=92 CharacterOffsetEnd=93 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=mammalia CharacterOffsetBegin=94 CharacterOffsetEnd=102 PartOfSpeech=NN Lemma=mammalia NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=102 CharacterOffsetEnd=103 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=104 CharacterOffsetEnd=109 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=110 CharacterOffsetEnd=112 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=113 CharacterOffsetEnd=114 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=vertebrate CharacterOffsetBegin=115 CharacterOffsetEnd=125 PartOfSpeech=NN Lemma=vertebrate NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=125 CharacterOffsetEnd=126 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=127 CharacterOffsetEnd=132 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=133 CharacterOffsetEnd=135 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=136 CharacterOffsetEnd=137 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=chordata CharacterOffsetBegin=138 CharacterOffsetEnd=146 PartOfSpeech=NN Lemma=chordata NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=146 CharacterOffsetEnd=147 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=148 CharacterOffsetEnd=153 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=154 CharacterOffsetEnd=156 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=157 CharacterOffsetEnd=158 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=animalia CharacterOffsetBegin=159 CharacterOffsetEnd=167 PartOfSpeech=NN Lemma=animalia NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=167 CharacterOffsetEnd=168 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=169 CharacterOffsetEnd=171 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=lovely CharacterOffsetBegin=172 CharacterOffsetEnd=178 PartOfSpeech=JJ Lemma=lovely NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=178 CharacterOffsetEnd=179 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Cat-1)
+punct(Cat-1, ,-2)
+nsubj(catus-6, which-3)
+cop(catus-6, is-4)
+det(catus-6, a-5)
+dep(Cat-1, catus-6)
+punct(catus-6, ,-7)
+nsubj(felis-11, which-8)
+cop(felis-11, is-9)
+det(felis-11, a-10)
+ccomp(catus-6, felis-11)
+punct(felis-11, ,-12)
+nsubj(felidae-16, which-13)
+cop(felidae-16, is-14)
+det(felidae-16, a-15)
+ccomp(felis-11, felidae-16)
+punct(felidae-16, ,-17)
+nsubj(carnivora-21, which-18)
+cop(carnivora-21, is-19)
+det(carnivora-21, a-20)
+ccomp(felidae-16, carnivora-21)
+punct(carnivora-21, ,-22)
+nsubj(mammalia-26, which-23)
+cop(mammalia-26, is-24)
+det(mammalia-26, a-25)
+ccomp(carnivora-21, mammalia-26)
+punct(mammalia-26, ,-27)
+nsubj(vertebrate-31, which-28)
+cop(vertebrate-31, is-29)
+det(vertebrate-31, a-30)
+ccomp(mammalia-26, vertebrate-31)
+punct(vertebrate-31, ,-32)
+nsubj(chordata-36, which-33)
+cop(chordata-36, is-34)
+det(chordata-36, a-35)
+ccomp(vertebrate-31, chordata-36)
+punct(chordata-36, ,-37)
+nsubj(animalia-41, which-38)
+cop(animalia-41, is-39)
+det(animalia-41, a-40)
+ccomp(chordata-36, animalia-41)
+punct(chordata-36, ,-42)
+cop(lovely-44, is-43)
+dep(chordata-36, lovely-44)
+punct(Cat-1, .-45)
+
+Extracted the following NER entity mentions:

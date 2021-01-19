@@ -1,0 +1,12 @@
+(S
+  (S
+    (VP
+      (VB Do)
+      (RB n't)
+      (VP
+        (VB trouble)
+        (NP (NN trouble))
+        (SBAR
+          (IN till)
+          (S (NP (NN trouble)) (VP (VBZ troubles) (NP (PRP you))))))))
+  (. .))

@@ -1,0 +1,36 @@
+Document: ID=input3.txt (1 sentences, 10 tokens)
+
+Sentence #1 (10 tokens):
+Both Kim and Sandy broke up with their partners.
+
+Tokens:
+[Text=Both CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=DT Lemma=both NamedEntityTag=O]
+[Text=Kim CharacterOffsetBegin=5 CharacterOffsetEnd=8 PartOfSpeech=NNP Lemma=Kim NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=9 CharacterOffsetEnd=12 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Sandy CharacterOffsetBegin=13 CharacterOffsetEnd=18 PartOfSpeech=NNP Lemma=Sandy NamedEntityTag=PERSON]
+[Text=broke CharacterOffsetBegin=19 CharacterOffsetEnd=24 PartOfSpeech=VBD Lemma=break NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=25 CharacterOffsetEnd=27 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=28 CharacterOffsetEnd=32 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=their CharacterOffsetBegin=33 CharacterOffsetEnd=38 PartOfSpeech=PRP$ Lemma=they NamedEntityTag=O]
+[Text=partners CharacterOffsetBegin=39 CharacterOffsetEnd=47 PartOfSpeech=NNS Lemma=partner NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=47 CharacterOffsetEnd=48 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, broke-5)
+cc:preconj(Kim-2, Both-1)
+nsubj(broke-5, Kim-2)
+cc(Sandy-4, and-3)
+conj:and(Kim-2, Sandy-4)
+nsubj(broke-5, Sandy-4)
+compound:prt(broke-5, up-6)
+case(partners-9, with-7)
+nmod:poss(partners-9, their-8)
+obl:with(broke-5, partners-9)
+punct(broke-5, .-10)
+
+Extracted the following NER entity mentions:
+Kim	PERSON	PERSON:0.9873171199747387
+Sandy	PERSON	PERSON:0.9862730575626231
+
+Coreference set:
+	(1,8,[8,9]) -> (1,2,[1,5]), that is: "their" -> "Both Kim and Sandy"

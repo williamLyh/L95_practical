@@ -1,0 +1,7 @@
+(S
+  (NP (DT Both) (NNP Kim) (CC and) (NNP Sandy))
+  (VP
+    (VBD broke)
+    (PRT (RP up))
+    (PP (IN with) (NP (PRP$ their) (NNS partners))))
+  (. .))

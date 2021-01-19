@@ -1,0 +1,43 @@
+(S
+  (NP
+    (NP (NN Cat))
+    (, ,)
+    (SBAR
+      (WHNP (WDT which))
+      (S (VP (VBZ is) (NP (DT a) (NN catus)))))
+    (, ,)
+    (SBAR
+      (SBAR
+        (WHNP (WDT which))
+        (S (VP (VBZ is) (NP (DT a) (NNS felis)))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S (VP (VBZ is) (NP (DT a) (NNS felidae))))))
+    (, ,)
+    (SBAR
+      (SBAR
+        (SBAR
+          (SBAR
+            (WHNP (WDT which))
+            (S (VP (VBZ is) (NP (DT a) (NN carnivora)))))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S (VP (VBZ is) (NP (DT a) (NNS mammalia))))))
+        (, ,)
+        (SBAR
+          (SBAR
+            (WHNP (WDT which))
+            (S (VP (VBZ is) (NP (DT a) (NN vertebrate)))))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S (VP (VBZ is) (NP (DT a) (NN chordata)))))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S (VP (VBZ is) (NP (DT a) (NNS animalia))))))
+    (, ,))
+  (VP (VBZ is) (ADJP (JJ lovely)))
+  (. .))
