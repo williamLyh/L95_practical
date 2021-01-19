@@ -1,0 +1,64 @@
+====================================================
+Gold:   gs_nn_eval.conllu
+Parsed: Eval/BP.conllu
+====================================================
+GroupBy-> Deprel
+Metric-> Deprel
+
+====================================================
+
+precision /    recall /    fscore /    parsercounter /    Deprel
+----------------------------------------------------------------------
+-              0           -           0                  ROOT
+0              -           -           2                  acl
+0              -           -           7                  acl:relcl
+-              0           -           0                  acomp
+0.5            1           0.667       2                  advcl
+0.636          0.7         0.667       11                 advmod
+-              0           -           0                  agent
+0.765          0.867       0.812       17                 amod
+0              0           -           2                  appos
+0.833          0.556       0.667       6                  aux
+0              -           -           2                  aux:pass
+-              0           -           0                  auxpass
+0              -           -           20                 case
+0.889          0.8         0.842       9                  cc
+1              1           1           2                  ccomp
+0              -           -           3                  compound
+0              -           -           3                  compound:prt
+1              0.667       0.8         8                  conj
+1              0.75        0.857       6                  cop
+0.143          1           0.25        7                  dep
+1              0.941       0.97        16                 det
+-              0           -           0                  dobj
+1              1           1           1                  expl
+0              -           -           3                  fixed
+0.429          1           0.6         7                  mark
+-              0           -           0                  mwe
+-              0           -           0                  neg
+0              -           -           3                  nmod
+0              -           -           6                  nmod:poss
+-              0           -           0                  nn
+1              0.958       0.979       23                 nsubj
+0              -           -           2                  nsubj:pass
+-              0           -           0                  nsubjpass
+-              0           -           0                  num
+0              -           -           6                  nummod
+0              -           -           14                 obj
+0              -           -           15                 obl
+0              -           -           1                  obl:npmod
+0              -           -           2                  obl:tmod
+0              -           -           1                  parataxis
+-              0           -           0                  pobj
+-              0           -           0                  poss
+-              0           -           0                  possessive
+-              0           -           0                  prep
+-              0           -           0                  prt
+1              0.87        0.93        20                 punct
+-              0           -           0                  quantmod
+-              0           -           0                  rcmod
+-              0           -           0                  ref
+0              -           -           14                 root
+-              0           -           0                  tmod
+-              0           -           0                  vmod
+0.333          1           0.5         3                  xcomp
